@@ -1,4 +1,4 @@
-#TEST MATCH AI
+# TEST MATCH AI
 AI scoreboard that plays a complete test match with rules same as a real test match cricket between 2 teams.
 
 Sample output:
